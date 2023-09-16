@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/librosio/static/css/main.62b1b32b.css",
-    "main.js": "/librosio/static/js/main.77759daf.js",
+    "main.js": "/librosio/static/js/main.7e7e0c55.js",
     "static/media/library-img.jpg": "/librosio/static/media/library-img.d1f784045101fce2bbd3.jpg",
     "static/media/cover_not_found.jpg": "/librosio/static/media/cover_not_found.69846940c7af3e651508.jpg",
     "static/media/logo.png": "/librosio/static/media/logo.57cc666546276bc4c1d8.png",
     "index.html": "/librosio/index.html",
     "static/media/loader.svg": "/librosio/static/media/loader.117dba5eb2c96fd38bd2107a3511f026.svg",
     "main.62b1b32b.css.map": "/librosio/static/css/main.62b1b32b.css.map",
-    "main.77759daf.js.map": "/librosio/static/js/main.77759daf.js.map"
+    "main.7e7e0c55.js.map": "/librosio/static/js/main.7e7e0c55.js.map"
   },
   "entrypoints": [
     "static/css/main.62b1b32b.css",
-    "static/js/main.77759daf.js"
+    "static/js/main.7e7e0c55.js"
   ]
 }
