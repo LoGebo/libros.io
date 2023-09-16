@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/libros.io/static/css/main.5b522938.css",
+    "main.js": "/libros.io/static/js/main.19900469.js",
+    "static/media/library-img.jpg": "/libros.io/static/media/library-img.d1f784045101fce2bbd3.jpg",
+    "static/media/cover_not_found.jpg": "/libros.io/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/logo.png": "/libros.io/static/media/logo.57cc666546276bc4c1d8.png",
+    "index.html": "/libros.io/index.html",
+    "static/media/loader.svg": "/libros.io/static/media/loader.117dba5eb2c96fd38bd2107a3511f026.svg",
+    "main.5b522938.css.map": "/libros.io/static/css/main.5b522938.css.map",
+    "main.19900469.js.map": "/libros.io/static/js/main.19900469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b522938.css",
+    "static/js/main.19900469.js"
+  ]
+}
